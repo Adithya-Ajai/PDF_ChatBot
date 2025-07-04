@@ -23,8 +23,8 @@ This project is a **Chat with your PDF** app that runs entirely **locally**, let
 
 ## 🖼️ Demo
 
-![Demo Screenshot](demo/demo.png) <!-- Add your own screenshot here -->
-
+![Demo Screenshot](data/1.png) 
+![Demo Screenshot](data/2.png)
 ---
 
 ## 🧱 Architecture
